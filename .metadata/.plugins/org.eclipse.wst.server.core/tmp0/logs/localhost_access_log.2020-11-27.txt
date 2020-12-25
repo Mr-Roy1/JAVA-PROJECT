@@ -1,0 +1,12 @@
+127.0.0.1 - - [27/Nov/2020:19:59:44 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Nov/2020:19:59:45 +0530] "GET /Awzpact_project/ HTTP/1.1" 200 1485
+0:0:0:0:0:0:0:1 - - [27/Nov/2020:19:59:45 +0530] "GET /Awzpact_project/Sinup.css HTTP/1.1" 200 885
+0:0:0:0:0:0:0:1 - - [27/Nov/2020:20:00:01 +0530] "GET /Awzpact_project/login.html HTTP/1.1" 200 974
+0:0:0:0:0:0:0:1 - - [27/Nov/2020:20:00:01 +0530] "GET /Awzpact_project/Awzpact.css HTTP/1.1" 200 997
+0:0:0:0:0:0:0:1 - - [27/Nov/2020:20:00:04 +0530] "GET /Awzpact_project/index.html HTTP/1.1" 200 1485
+0:0:0:0:0:0:0:1 - - [27/Nov/2020:20:00:06 +0530] "GET /Awzpact_project/login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/Nov/2020:20:00:11 +0530] "POST /Awzpact_project/loginServlet HTTP/1.1" 200 1006
+0:0:0:0:0:0:0:1 - - [27/Nov/2020:20:00:13 +0530] "POST /Awzpact_project/loginServlet HTTP/1.1" 200 1006
+0:0:0:0:0:0:0:1 - - [27/Nov/2020:20:01:24 +0530] "POST /Awzpact_project/SaveServlet HTTP/1.1" 200 1008
+0:0:0:0:0:0:0:1 - - [27/Nov/2020:20:01:31 +0530] "POST /Awzpact_project/loginServlet HTTP/1.1" 200 1333
+0:0:0:0:0:0:0:1 - - [27/Nov/2020:20:01:45 +0530] "GET /Awzpact_project/EditServlet?id=2 HTTP/1.1" 200 727

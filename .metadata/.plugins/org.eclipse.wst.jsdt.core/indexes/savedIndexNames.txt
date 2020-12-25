@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+F:\eclipse-workspace-9\Awzpact project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1360549428.index
+2045059638.index
+3323732917.index
+2532277035.index
+3883878669.index
+2230225689.index
